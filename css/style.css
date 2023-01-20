@@ -8,6 +8,7 @@ body {
 h1 {
     font-size: 42px;
     text-align: center;
+    padding: 15px;
 }
 
 h2 {
@@ -20,17 +21,12 @@ p {
     padding: 10px 0px 0px 10px;
 }
 
-/* TODO: */
+
 img {
     border: 10px dashed #FFFFFF;
     width: 250px;
     display: block;
-    /* text-align */
     margin: auto;
-}
-
-main img {
-    text-align: center;
 }
 
 div {
@@ -75,7 +71,7 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
